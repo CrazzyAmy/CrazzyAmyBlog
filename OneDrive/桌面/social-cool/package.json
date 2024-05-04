@@ -1,0 +1,48 @@
+{
+  "name": "social-cool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@achrinza/node-ipc": "^10.1.10",
+    "@gsap/react": "^2.1.0",
+    "axios": "^1.6.8",
+    "firebase": "^10.10.0",
+    "gsap": "^3.12.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-ga": "^3.3.1",
+    "react-helmet": "^6.1.0",
+    "react-media-hook": "^0.5.0",
+    "react-responsive": "^10.0.0",
+    "react-router-dom": "^6.22.3",
+    "react-scripts": "^5.0.1",
+    "react-typekit": "^1.1.4",
+    "semantic-ui-css": "^2.5.0",
+    "semantic-ui-react": "^2.1.5",
+    "typekit": "^0.1.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "web-vitals": "^3.5.2"
+  }
+}
